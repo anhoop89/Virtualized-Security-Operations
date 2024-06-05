@@ -1,8 +1,5 @@
 # Final Project: DevOps - Advanced Service Implementation
 
-**Due Date:** 2023-12-08 23:59:59  
-**Submission:** via GitLab repo
-
 ## Introduction
 - Engineered a virtualized network environment using FreeBSD as the base host and Ubuntu as a primary VM, enhancing system robustness and scalability.
 - Implemented comprehensive network services including TCP/IP, DHCP, DNS, and VPN on the Ubuntu VM for secure and efficient remote connectivity.
